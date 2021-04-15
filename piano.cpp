@@ -74,7 +74,7 @@ Beep(1060,tick);
 Beep(1175,tick);
 Beep(1060,tick2);
 
-//¤p»e¸Á 
+//Â¤pÅ¥eÂ¸Ã 
 
 Beep(784,tick);
 Beep(659,tick);
