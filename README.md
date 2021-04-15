@@ -1,2 +1,2 @@
 # Piano
-Play piano use keyboard
+Playing piano using keyboard of computer
